@@ -48,7 +48,7 @@ This project was created for the **AI & Data Science Codeathon 2024**, a 24-hour
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Kishore-SR/CreditWorthy.git
+    git https://github.com/harshavardhan-md/CreditWorthy.git
     ```
 2. Navigate to the project directory:
     ```bash
