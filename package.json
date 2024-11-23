@@ -10,19 +10,10 @@
     "preview": "vite preview",
     "start": "node server/server.js"
   },
-  {
-    "scripts": {
-      "dev": "vite",
-      "build": "vite build",
-      "preview": "vite preview"
-    }
-  },
-  {
-    "optionalDependencies": {
-      "@rollup/rollup-win32-x64-msvc": "4.x",
-      "@rollup/rollup-linux-x64-gnu": "4.x",
-      "@rollup/rollup-darwin-x64": "4.x"
-    }
+  "optionalDependencies": {
+    "@rollup/rollup-win32-x64-msvc": "4.x",
+    "@rollup/rollup-linux-x64-gnu": "4.x",
+    "@rollup/rollup-darwin-x64": "4.x"
   },
   "dependencies": {
     "@clerk/clerk-react": "^5.16.0",
