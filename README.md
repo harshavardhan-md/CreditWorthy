@@ -27,21 +27,21 @@ This project was created for the **AI & Data Science Codeathon 2024**, a 24-hour
 
 ### Project Screenshots
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f62d5f5d-2750-4b27-96fe-9a9704b02073" alt="Screenshot 1" width="600"/>
+  <img src="https://github.com/user-attachments/assets/f62d5f5d-2750-4b27-96fe-9a9704b02073" alt="Screenshot 1"/>
   <br/><br/>
-  <img src="https://github.com/user-attachments/assets/d3b7dab5-ef46-4416-9695-07c4b03d77a8" alt="Screenshot 2" width="600"/>
+  <img src="https://github.com/user-attachments/assets/d3b7dab5-ef46-4416-9695-07c4b03d77a8" alt="Screenshot 2"/>
   <br/><br/>
-  <img src="https://github.com/user-attachments/assets/17ea0449-c66e-4642-8f0e-b3194ec725a1" alt="Screenshot 3" width="600"/>
+  <img src="https://github.com/user-attachments/assets/17ea0449-c66e-4642-8f0e-b3194ec725a1" alt="Screenshot 3"/>
   <br/><br/>
-  <img src="https://github.com/user-attachments/assets/b1c685ff-4e7c-405c-95bd-9a158ab1feb7" alt="Screenshot 4" width="600"/>
+  <img src="https://github.com/user-attachments/assets/b1c685ff-4e7c-405c-95bd-9a158ab1feb7" alt="Screenshot 4"/>
   <br/><br/>
-  <img src="https://github.com/user-attachments/assets/0c82056d-79e7-41e2-bdd5-2616c7ae2f0a" alt="Screenshot 5" width="600"/>
+  <img src="https://github.com/user-attachments/assets/0c82056d-79e7-41e2-bdd5-2616c7ae2f0a" alt="Screenshot 5"/>
   <br/><br/>
-  <img src="https://github.com/user-attachments/assets/d9fc7113-7dee-4dae-a3f6-17a4aa3cc07d" alt="Screenshot 6" width="600"/>
+  <img src="https://github.com/user-attachments/assets/d9fc7113-7dee-4dae-a3f6-17a4aa3cc07d" alt="Screenshot 6"/>
   <br/><br/>
-  <img src="https://github.com/user-attachments/assets/e6cad42e-5299-4c9d-9b4c-5b6d0769e946" alt="Screenshot 7" width="600"/>
+  <img src="https://github.com/user-attachments/assets/e6cad42e-5299-4c9d-9b4c-5b6d0769e946" alt="Screenshot 7"/>
   <br/><br/>
-  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 8" width="600"/>
+  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 8"/>
 </div>
 
 ### Run the Project Locally
