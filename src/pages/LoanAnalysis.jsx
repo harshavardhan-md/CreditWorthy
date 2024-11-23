@@ -36,6 +36,9 @@ const LoanAnalysis = () => {
         src="https://creditworthy-customer-view.streamlit.app/?embed=true"
         frameborder="0"
         allowfullscreen
+        width="100%"
+        height="800px"
+        style={{ border: "none", marginTop: "20px" }}
         sandbox="allow-scripts allow-same-origin allow-forms">
     </iframe>
 
