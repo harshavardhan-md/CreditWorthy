@@ -1,20 +1,22 @@
 import { useState } from "react";
-import { UserButton, useUser } from "@clerk/clerk-react";
+import { UserButton, useUser, ClerkProvider } from "@clerk/clerk-react";
 import "./Dashboard.css";
 import { useNavigate } from "react-router-dom";
 import { Footer } from "../components/layout/Footer";
 
-export const Dashboard = () => {
+// Define the Clerk key with fallback
+const CLERK_KEY = 'pk_test_cGF0aWVudC1raW5nZmlzaC00Mi5jbGVyay5hY2NvdW50cy5kZXYk';
+const clerk_key = import.meta.env.VITE_CLERK_KEY || CLERK_KEY;
+
+const DashboardContent = () => {
   const [currentStep, setCurrentStep] = useState(1);
   const navigate = useNavigate();
   const { isLoaded, isSignedIn, user } = useUser();
 
-  // Handle loading state
   if (!isLoaded) {
     return <div>Loading...</div>;
   }
 
-  // Handle authentication
   if (!isSignedIn) {
     navigate('/login');
     return null;
@@ -226,5 +228,14 @@ export const Dashboard = () => {
 
       <Footer/>
     </div>
+  );
+};
+
+// Wrap the dashboard with ClerkProvider
+export const Dashboard = () => {
+  return (
+    <ClerkProvider publishableKey={clerk_key}>
+      <DashboardContent />
+    </ClerkProvider>
   );
 };
