@@ -1,12 +1,24 @@
 import { useState } from "react";
-import { UserButton } from "@clerk/clerk-react";
+import { UserButton, useUser } from "@clerk/clerk-react";
 import "./Dashboard.css";
 import { useNavigate } from "react-router-dom";
 import { Footer } from "../components/layout/Footer";
 
 export const Dashboard = () => {
   const [currentStep, setCurrentStep] = useState(1);
-  const navigate = useNavigate(); // Define navigate here
+  const navigate = useNavigate();
+  const { isLoaded, isSignedIn, user } = useUser();
+
+  // Handle loading state
+  if (!isLoaded) {
+    return <div>Loading...</div>;
+  }
+
+  // Handle authentication
+  if (!isSignedIn) {
+    navigate('/login');
+    return null;
+  }
 
   const steps = [
     { id: 1, title: "Personal Information" },
@@ -24,7 +36,7 @@ export const Dashboard = () => {
   };
 
   const handleSubmit = () => {
-    navigate("/LoanAnalysis"); // Use the navigate function to redirect
+    navigate("/LoanAnalysis");
   };
 
   const renderStepContent = () => {
@@ -34,13 +46,24 @@ export const Dashboard = () => {
           <div>
             <h3>Personal Information</h3>
             <div className="form-group">
-              <input type="text" placeholder="First Name" className="input" />
-              <input type="text" placeholder="Last Name" className="input" />
+              <input 
+                type="text" 
+                placeholder="First Name" 
+                className="input"
+                defaultValue={user?.firstName || ''}
+              />
+              <input 
+                type="text" 
+                placeholder="Last Name" 
+                className="input"
+                defaultValue={user?.lastName || ''}
+              />
             </div>
             <input
               type="email"
               placeholder="Email"
               className="input full-width"
+              defaultValue={user?.primaryEmailAddress?.emailAddress || ''}
             />
             <input
               type="tel"
@@ -150,7 +173,7 @@ export const Dashboard = () => {
           Credit<i className="ri-money-rupee-circle-fill"></i>Worthy
         </div>
         <div className="dashboard-user-icon">
-          <UserButton />
+          {isSignedIn && <UserButton afterSignOutUrl="/login" />}
         </div>
       </nav>
 
