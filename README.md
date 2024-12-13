@@ -24,6 +24,8 @@ This project was created for the **AI & Data Science Codeathon 2024**, a 24-hour
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logoColor=white)
 [![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Numpy](https://img.shields.io/badge/gemini-%23013243.svg?&style=for-the-badge&logo=gemini&logoColor=white)](https://developers.google.com/)
+[![Numpy](https://img.shields.io/badge/googlecloud-%23013243.svg?&style=for-the-badge&logo=googlecloud&logoColor=white)](https://numpy.org/)
 
 ### Project Screenshots
 <div align="center">
