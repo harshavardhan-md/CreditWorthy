@@ -140,6 +140,8 @@ git clone https://github.com/harshavardhan-md/CreditWorthy.git
 npm install
 # Run the development server
 npm run dev
+
+
 Meet Team Cosmic 👥
 Our dream team that made this possible:
 - Harshavardhan M (LinkedIN)
@@ -147,8 +149,10 @@ Our dream team that made this possible:
 - Jeevan N (LinkedIN)
 - Hitesh P (LinkedIN)
 - Rishi Majeti (LinkedIN)
+  
 What's Next? 🔮
 We're excited to continue developing CreditWorthy, exploring ways to make financial services more accessible and equitable for nano-entrepreneurs worldwide! 🌍
+
 Call to Action 📣
 My LinkedIN : https://www.linkedin.com/in/harshavardhan-md/
 My Portfolio : https://harshavardhan-md.web.app/
