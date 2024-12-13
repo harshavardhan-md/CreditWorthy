@@ -44,6 +44,24 @@ This project was created for the **AI & Data Science Codeathon 2024**, a 24-hour
   <img src="https://github.com/user-attachments/assets/e6cad42e-5299-4c9d-9b4c-5b6d0769e946" alt="Screenshot 7"/>
   <br/><br/>
   <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 8"/>
+  <br/><br/>
+  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 9"/>
+  <br/><br/>
+  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 10"/>
+  <br/><br/>
+  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 11"/>
+  <br/><br/>
+  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 12"/>
+  <br/><br/>
+  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 13"/>
+  <br/><br/>
+  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 14"/>
+  <br/><br/>
+  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 15"/>
+  <br/><br/>
+  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 16"/>
+  <br/><br/>
+  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 17"/>
 </div>
 
 ### Run the Project Locally
