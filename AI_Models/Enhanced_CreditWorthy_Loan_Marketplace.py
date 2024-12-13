@@ -46,7 +46,7 @@ st.markdown("""
 def get_loan_types_from_gemini():
     """Get additional loan types using Gemini AI with robust error handling"""
     try:
-        model = genai.GenerativeModel('gemini-pro')
+        model = genai.GenerativeModel('gemini-2.0-flash-exp')
         prompt = """Generate a Python dictionary containing additional business loan types with this exact structure:
         {
             'additional_loans': [
