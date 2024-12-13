@@ -45,7 +45,7 @@ This project was created for the **AI & Data Science Codeathon 2024**, a 24-hour
   <br/><br/>
   <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 8"/>
   <br/><br/>
-  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 9"/>
+  <img src="https://github.com/harshavardhan-md/CreditWorthy/blob/main/AI_Models/Screenshot%209.png?raw=true" alt="Screenshot 9"/>
   <br/><br/>
   <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 10"/>
   <br/><br/>
