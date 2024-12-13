@@ -10,7 +10,7 @@ import google.generativeai as genai
 from youtube_search import YoutubeSearch
 
 # Gemini API Configuration
-GOOGLE_API_KEY = "AIzaSyAKZv8PdQEy72iqoeonV8EHQWK0mK3_dNE"  # Hardcoded API key
+GOOGLE_API_KEY = "Your API"  # Hardcoded API key
 genai.configure(api_key=GOOGLE_API_KEY)
 
 class CreditScoreEnhancer:
@@ -43,7 +43,7 @@ class CreditScoreEnhancer:
         """
 
         try:
-            model = genai.GenerativeModel('gemini-pro')
+            model = genai.GenerativeModel('gemini-2.0-flash-exp')
             response = model.generate_content(prompt)
             return response.text
         except Exception as e:
