@@ -47,21 +47,21 @@ This project was created for the **AI & Data Science Codeathon 2024**, a 24-hour
   <br/><br/>
   <img src="https://github.com/harshavardhan-md/CreditWorthy/blob/main/AI_Models/Screenshot%209.png?raw=true" alt="Screenshot 9"/>
   <br/><br/>
-  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 10"/>
+  <img src="https://github.com/harshavardhan-md/CreditWorthy/blob/main/AI_Models/Screenshot%2010.png?raw=true" alt="Screenshot 10"/>
   <br/><br/>
-  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 11"/>
+  <img src="https://github.com/harshavardhan-md/CreditWorthy/blob/main/AI_Models/Screenshot%2011.png?raw=true" alt="Screenshot 11"/>
   <br/><br/>
-  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 12"/>
+  <img src="https://github.com/harshavardhan-md/CreditWorthy/blob/main/AI_Models/Screenshot%2012.png?raw=true" alt="Screenshot 12"/>
   <br/><br/>
-  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 13"/>
+  <img src="https://github.com/harshavardhan-md/CreditWorthy/blob/main/AI_Models/Screenshot%2013.png?raw=true" alt="Screenshot 13"/>
   <br/><br/>
-  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 14"/>
+  <img src="https://github.com/harshavardhan-md/CreditWorthy/blob/main/AI_Models/Screenshot%2014.png?raw=true" alt="Screenshot 14"/>
   <br/><br/>
-  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 15"/>
+  <img src="https://github.com/harshavardhan-md/CreditWorthy/blob/main/AI_Models/Screenshot%2015.png?raw=true" alt="Screenshot 15"/>
   <br/><br/>
-  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 16"/>
+  <img src="https://github.com/harshavardhan-md/CreditWorthy/blob/main/AI_Models/Screenshot%2016.png?raw=true" alt="Screenshot 16"/>
   <br/><br/>
-  <img src="https://github.com/user-attachments/assets/fb574d5e-8dc7-4bde-b99c-fcb7f04241db" alt="Screenshot 17"/>
+  <img src="https://github.com/harshavardhan-md/CreditWorthy/blob/main/AI_Models/Screenshot%2017.png?raw=true" alt="Screenshot 17"/>
 </div>
 
 ### Run the Project Locally
