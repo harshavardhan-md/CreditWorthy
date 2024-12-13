@@ -102,6 +102,60 @@ This project was created for the **AI & Data Science Codeathon 2024**, a 24-hour
     ```
     Select the appropriate JSON file for credit analysis during the run.
 
+
+CreditWorthy: Revolutionizing Credit Access for Nano-Entrepreneurs 🚀💡
+An Incredible Journey at Google Build and Blog Marathon 2024 🏆
+It was an exhilarating experience to participate in the Google Build and Blog Marathon on December 12–13, 2024 - a hackathon that pushed the boundaries of innovation and social impact! 🌟 Our team, Team Cosmic, embarked on a mission to transform financial inclusion using cutting-edge AI technology. 🌍
+The Problem: Unbanked Nano-Entrepreneurs Need Support 🏪
+Imagine a local vegetable vendor, a dedicated laundry service provider, or a small kirana store owner struggling to access formal credit. These nano-entrepreneurs are the backbone of local economies, yet traditional banking systems often overlook them. 📊
+Our Solution: CreditWorthy 🏛️
+We developed CreditWorthy, an AI-powered web application designed to assess the creditworthiness of unbanked nano-entrepreneurs using innovative data analysis techniques. 🤖💳
+Key Features That Make CreditWorthy Unique 🌈
+- AI-Powered Credit Scoring: Leveraging advanced machine learning to evaluate creditworthiness
+- Simple Authentication: Easy access via phone number
+- Minimal Data Collection: Efficient and accurate credit assessment
+- Financial Empowerment: Helping small businesses grow and thrive 💪
+Tech Stack: The Magic Behind CreditWorthy 🛠️
+We crafted this solution using an exciting mix of technologies:
+- React for a smooth frontend experience
+- Python for robust backend processing
+- Scikit-Learn for machine learning magic
+- Gemini 2.0 Flash Experimental AI for advanced insights 🔬
+- Google Cloud for scalable infrastructure
+- Clerk Auth for secure authentication
+The Secret Sauce: Gemini 2.0 Flash Experimental 🧪
+The highlight of our project was utilizing Gemini 2.0 Flash Experimental AI, which provided unprecedented insights into credit risk assessment. This cutting-edge technology allowed us to create a more nuanced and fair credit scoring system. 🌟
+Our Journey at the Hackathon 🏁
+🚀 Flashback Alert: AI & Data Science Codeathon 2024 Unleashed!
+In a whirlwind 24-hour hackathon by RBIHub and IIITB Innovation Center (powered by Canara Bank), our team turned a spark of an idea into a potential game-changer for financial inclusion. 💡🏦
+Fast forward to the Google Build and Blog Marathon, and our project has leveled up - more tech, more insights, more magic! 🌟 From a crazy coding night to a evolving solution that could reshape financial accessibility. Who said innovation has limits? 💪🤖
+It was bit difficult to build it along in Google Build and Blog Marathon, but thanks to Abirami Sukumaran, Ph.D for the mentorship and helping me to solve all the problems that I had encountered
+How to Get Started 🚀
+Want to explore CreditWorthy?
+Here is the look at CreditWorthy
+All the Streamlit Applications Screenshots Provided has the functionality of Gemini 2.0 baked into itHere's how you can run it locally:
+# Clone the repository
+git clone https://github.com/harshavardhan-md/CreditWorthy.git
+# Install dependencies
+npm install
+# Run the development server
+npm run dev
+Meet Team Cosmic 👥
+Our dream team that made this possible:
+- Harshavardhan M (LinkedIN)
+- Kishore S R (LinkedIN)
+- Jeevan N (LinkedIN)
+- Hitesh P (LinkedIN)
+- Rishi Majeti (LinkedIN)
+What's Next? 🔮
+We're excited to continue developing CreditWorthy, exploring ways to make financial services more accessible and equitable for nano-entrepreneurs worldwide! 🌍
+Call to Action 📣
+My LinkedIN : https://www.linkedin.com/in/harshavardhan-md/
+My Portfolio : https://harshavardhan-md.web.app/
+Together, we can build technology that truly makes a difference! 💪🌈
+- - - - -
+
+
 ## Team Cosmic
 
 [![Harshavardhan M](https://img.shields.io/badge/harshavardhan%20m-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshavardhan-md/) &nbsp;
@@ -109,3 +163,5 @@ This project was created for the **AI & Data Science Codeathon 2024**, a 24-hour
 [![Jeevan N](https://img.shields.io/badge/jeevan%20n-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevan-n-39a5652a3) &nbsp;
 [![Hitesh P](https://img.shields.io/badge/hitesh%20p-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-p-aa55662a3) &nbsp;
 [![Rishi Majeti](https://img.shields.io/badge/Rishi%20Majeti-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-majeti-01b6102b4/)
+
+Crafted with ❤️ at the Google Build and Blog Marathon 2024
