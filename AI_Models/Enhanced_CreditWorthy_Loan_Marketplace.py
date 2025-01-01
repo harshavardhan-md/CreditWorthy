@@ -9,7 +9,7 @@ import ast
 
 # Configuration
 st.set_page_config(page_title="Enhanced Loan Marketplace", page_icon="💰", layout="wide")
-GOOGLE_API_KEY = "AIzaSyAKZv8PdQEy72iqoeonV8EHQWK0mK3_dNE"  # Hardcoded API key
+GOOGLE_API_KEY = "AIzaSyATjQeLp_TY8RYv7JCyA30ad0ouj4nnV9w"  # Hardcoded API key
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Enhanced CSS
