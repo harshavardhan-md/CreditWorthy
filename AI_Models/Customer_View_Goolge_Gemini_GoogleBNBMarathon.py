@@ -10,7 +10,7 @@ import google.generativeai as genai
 from youtube_search import YoutubeSearch
 
 # Gemini API Configuration
-GOOGLE_API_KEY = "Your API"  # Hardcoded API key
+GOOGLE_API_KEY = "AIzaSyATjQeLp_TY8RYv7JCyA30ad0ouj4nnV9w"  # Hardcoded API key
 genai.configure(api_key=GOOGLE_API_KEY)
 
 class CreditScoreEnhancer:
