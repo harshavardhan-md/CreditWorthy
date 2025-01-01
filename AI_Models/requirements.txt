@@ -1,2 +1,3 @@
 youtube-search
 plotly
+google.generativeai
