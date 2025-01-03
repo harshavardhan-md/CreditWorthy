@@ -110,14 +110,20 @@ It was an exhilarating experience to participate in the Google Build and Blog Ma
 🌟 Our team, Team Cosmic, embarked on a mission to transform financial inclusion using cutting-edge AI technology. 🌍
 <br>
 The Problem: Unbanked Nano-Entrepreneurs Need Support 🏪
-Imagine a local vegetable vendor, a dedicated laundry service provider, or a small kirana store owner struggling to access formal credit. These nano-entrepreneurs are the backbone of local economies, yet traditional banking systems often overlook them. 📊
+<br>
+Imagine a local vegetable vendor, a dedicated laundry service provider, or a small kirana store owner struggling to access formal credit.
+<br>These nano-entrepreneurs are the backbone of local economies, yet traditional banking systems often overlook them. 📊
+<br>
 Our Solution: CreditWorthy 🏛️
-We developed CreditWorthy, an AI-powered web application designed to assess the creditworthiness of unbanked nano-entrepreneurs using innovative data analysis techniques. 🤖💳
+<br>
+We developed CreditWorthy, an AI-powered web application designed to assess the creditworthiness of unbanked nano-entrepreneurs using innovative data analysis techniques. 🤖💳<br>
+<br>
 Key Features That Make CreditWorthy Unique 🌈
 - AI-Powered Credit Scoring: Leveraging advanced machine learning to evaluate creditworthiness
 - Simple Authentication: Easy access via phone number
 - Minimal Data Collection: Efficient and accurate credit assessment
 - Financial Empowerment: Helping small businesses grow and thrive 💪
+  <br>
 Tech Stack: The Magic Behind CreditWorthy 🛠️
 We crafted this solution using an exciting mix of technologies:
 - React for a smooth frontend experience
