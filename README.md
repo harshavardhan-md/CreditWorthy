@@ -165,13 +165,13 @@ Our dream team that made this possible:<br>
   <br><br>
 What's Next? 🔮<br>
 We're excited to continue developing CreditWorthy, exploring ways to make financial services more accessible and equitable for nano-entrepreneurs worldwide! 🌍
-
-Call to Action 📣
-My LinkedIN : https://www.linkedin.com/in/harshavardhan-md/
-My Portfolio : https://harshavardhan-md.web.app/
-Together, we can build technology that truly makes a difference! 💪🌈
+<br><br>
+Call to Action 📣<br>
+My LinkedIN : https://www.linkedin.com/in/harshavardhan-md/<br>
+My Portfolio : https://harshavardhan-md.web.app/<br>
+Together, we can build technology that truly makes a difference! 💪🌈<br>
 - - - - -
-
+<br><br>
 
 ## Team Cosmic
 
