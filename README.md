@@ -146,15 +146,15 @@ It was bit difficult to build it along in Google Build and Blog Marathon, but th
 How to Get Started 🚀<br>
 Want to explore CreditWorthy?<br>
 Here is the look at CreditWorthy<br><br>
-All the Streamlit Applications Screenshots Provided has the functionality of Gemini 2.0 baked into itHere's how you can run it locally:
+All the Streamlit Applications Screenshots Provided has the functionality of Gemini 2.0 baked into itHere's how you can run it locally:<br><br>
 # Clone the repository
-git clone https://github.com/harshavardhan-md/CreditWorthy.git
+git clone https://github.com/harshavardhan-md/CreditWorthy.git <br>
 # Install dependencies
-npm install
+npm install <br>
 # Run the development server
-npm run dev
+npm run dev <br>
 
-
+<br><br><br>
 Meet Team Cosmic 👥
 Our dream team that made this possible:
 - Harshavardhan M (LinkedIN)
