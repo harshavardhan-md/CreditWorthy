@@ -104,34 +104,38 @@ This project was created for the **AI & Data Science Codeathon 2024**, a 24-hour
 
 
 CreditWorthy: Revolutionizing Credit Access for Nano-Entrepreneurs 🚀💡
+<br><br>
 An Incredible Journey at Google Build and Blog Marathon 2024 🏆
+<br><br>
 It was an exhilarating experience to participate in the Google Build and Blog Marathon on December 12–13, 2024 - a hackathon that pushed the boundaries of innovation and social impact!
-<br>
+<br><br>
 🌟 Our team, Team Cosmic, embarked on a mission to transform financial inclusion using cutting-edge AI technology. 🌍
-<br>
+<br><br>
 The Problem: Unbanked Nano-Entrepreneurs Need Support 🏪
-<br>
+<br><br>
 Imagine a local vegetable vendor, a dedicated laundry service provider, or a small kirana store owner struggling to access formal credit.
 <br>These nano-entrepreneurs are the backbone of local economies, yet traditional banking systems often overlook them. 📊
-<br>
+<br><br>
 Our Solution: CreditWorthy 🏛️
-<br>
+<br><br>
 We developed CreditWorthy, an AI-powered web application designed to assess the creditworthiness of unbanked nano-entrepreneurs using innovative data analysis techniques. 🤖💳<br>
-<br>
+<br><br>
 Key Features That Make CreditWorthy Unique 🌈
 - AI-Powered Credit Scoring: Leveraging advanced machine learning to evaluate creditworthiness
 - Simple Authentication: Easy access via phone number
 - Minimal Data Collection: Efficient and accurate credit assessment
 - Financial Empowerment: Helping small businesses grow and thrive 💪
-  <br>
+  <br><br>
 Tech Stack: The Magic Behind CreditWorthy 🛠️
+<br><br>
 We crafted this solution using an exciting mix of technologies:
-- React for a smooth frontend experience
-- Python for robust backend processing
-- Scikit-Learn for machine learning magic
-- Gemini 2.0 Flash Experimental AI for advanced insights 🔬
-- Google Cloud for scalable infrastructure
-- Clerk Auth for secure authentication
+- React for a smooth frontend experience<br>
+- Python for robust backend processing<br>
+- Scikit-Learn for machine learning magic<br>
+- Gemini 2.0 Flash Experimental AI for advanced insights 🔬<br>
+- Google Cloud for scalable infrastructure<br>
+- Clerk Auth for secure authentication<br>
+  <br><br>
 The Secret Sauce: Gemini 2.0 Flash Experimental 🧪
 The highlight of our project was utilizing Gemini 2.0 Flash Experimental AI, which provided unprecedented insights into credit risk assessment. This cutting-edge technology allowed us to create a more nuanced and fair credit scoring system. 🌟
 Our Journey at the Hackathon 🏁
