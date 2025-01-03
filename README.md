@@ -155,15 +155,15 @@ npm install <br>
 npm run dev <br>
 
 <br><br><br>
-Meet Team Cosmic 👥
-Our dream team that made this possible:
-- Harshavardhan M (LinkedIN)
-- Kishore S R (LinkedIN)
-- Jeevan N (LinkedIN)
-- Hitesh P (LinkedIN)
-- Rishi Majeti (LinkedIN)
-  
-What's Next? 🔮
+Meet Team Cosmic 👥<br>
+Our dream team that made this possible:<br>
+- Harshavardhan M (LinkedIN)<br>
+- Kishore S R (LinkedIN)<br>
+- Jeevan N (LinkedIN)<br>
+- Hitesh P (LinkedIN)<br>
+- Rishi Majeti (LinkedIN)<br>
+  <br><br>
+What's Next? 🔮<br>
 We're excited to continue developing CreditWorthy, exploring ways to make financial services more accessible and equitable for nano-entrepreneurs worldwide! 🌍
 
 Call to Action 📣
