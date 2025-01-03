@@ -105,7 +105,10 @@ This project was created for the **AI & Data Science Codeathon 2024**, a 24-hour
 
 CreditWorthy: Revolutionizing Credit Access for Nano-Entrepreneurs 🚀💡
 An Incredible Journey at Google Build and Blog Marathon 2024 🏆
-It was an exhilarating experience to participate in the Google Build and Blog Marathon on December 12–13, 2024 - a hackathon that pushed the boundaries of innovation and social impact! 🌟 Our team, Team Cosmic, embarked on a mission to transform financial inclusion using cutting-edge AI technology. 🌍
+It was an exhilarating experience to participate in the Google Build and Blog Marathon on December 12–13, 2024 - a hackathon that pushed the boundaries of innovation and social impact!
+<br>
+🌟 Our team, Team Cosmic, embarked on a mission to transform financial inclusion using cutting-edge AI technology. 🌍
+<br>
 The Problem: Unbanked Nano-Entrepreneurs Need Support 🏪
 Imagine a local vegetable vendor, a dedicated laundry service provider, or a small kirana store owner struggling to access formal credit. These nano-entrepreneurs are the backbone of local economies, yet traditional banking systems often overlook them. 📊
 Our Solution: CreditWorthy 🏛️
