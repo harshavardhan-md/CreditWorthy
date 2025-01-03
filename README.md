@@ -152,7 +152,7 @@ git clone https://github.com/harshavardhan-md/CreditWorthy.git <br>
 # Install dependencies
 npm install <br>
 # Run the development server
-npm run dev <br>
+npm run 
 
 <br><br><br>
 Meet Team Cosmic 👥<br>
