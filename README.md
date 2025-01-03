@@ -171,7 +171,7 @@ My LinkedIN : https://www.linkedin.com/in/harshavardhan-md/<br>
 My Portfolio : https://harshavardhan-md.web.app/<br>
 Together, we can build technology that truly makes a difference! 💪🌈<br>
 - - - - -
-<br><br>
+<br>
 
 ## Team Cosmic
 
