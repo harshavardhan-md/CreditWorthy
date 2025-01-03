@@ -136,16 +136,16 @@ We crafted this solution using an exciting mix of technologies:
 - Google Cloud for scalable infrastructure<br>
 - Clerk Auth for secure authentication<br>
   <br><br>
-The Secret Sauce: Gemini 2.0 Flash Experimental 🧪
+The Secret Sauce: Gemini 2.0 Flash Experimental 🧪<br><br>
 The highlight of our project was utilizing Gemini 2.0 Flash Experimental AI, which provided unprecedented insights into credit risk assessment. This cutting-edge technology allowed us to create a more nuanced and fair credit scoring system. 🌟
-Our Journey at the Hackathon 🏁
-🚀 Flashback Alert: AI & Data Science Codeathon 2024 Unleashed!
-In a whirlwind 24-hour hackathon by RBIHub and IIITB Innovation Center (powered by Canara Bank), our team turned a spark of an idea into a potential game-changer for financial inclusion. 💡🏦
-Fast forward to the Google Build and Blog Marathon, and our project has leveled up - more tech, more insights, more magic! 🌟 From a crazy coding night to a evolving solution that could reshape financial accessibility. Who said innovation has limits? 💪🤖
-It was bit difficult to build it along in Google Build and Blog Marathon, but thanks to Abirami Sukumaran, Ph.D for the mentorship and helping me to solve all the problems that I had encountered
-How to Get Started 🚀
-Want to explore CreditWorthy?
-Here is the look at CreditWorthy
+Our Journey at the Hackathon 🏁<br>
+🚀 Flashback Alert: AI & Data Science Codeathon 2024 Unleashed!<br>
+In a whirlwind 24-hour hackathon by RBIHub and IIITB Innovation Center (powered by Canara Bank), our team turned a spark of an idea into a potential game-changer for financial inclusion. 💡🏦<br>
+Fast forward to the Google Build and Blog Marathon, and our project has leveled up - more tech, more insights, more magic! 🌟 From a crazy coding night to a evolving solution that could reshape financial accessibility. Who said innovation has limits? 💪🤖<br>
+It was bit difficult to build it along in Google Build and Blog Marathon, but thanks to Abirami Sukumaran, Ph.D for the mentorship and helping me to solve all the problems that I had encountered<br><br>
+How to Get Started 🚀<br>
+Want to explore CreditWorthy?<br>
+Here is the look at CreditWorthy<br><br>
 All the Streamlit Applications Screenshots Provided has the functionality of Gemini 2.0 baked into itHere's how you can run it locally:
 # Clone the repository
 git clone https://github.com/harshavardhan-md/CreditWorthy.git
