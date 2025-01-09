@@ -182,3 +182,9 @@ Together, we can build technology that truly makes a difference! 💪🌈<br>
 [![Rishi Majeti](https://img.shields.io/badge/Rishi%20Majeti-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-majeti-01b6102b4/)
 
 Crafted with ❤️ at the Google Build and Blog Marathon 2024
+
+<div style=center>
+
+[⬆ Back to Top](#-CreditWorthy)
+
+</div>
